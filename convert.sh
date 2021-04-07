@@ -1,6 +1,10 @@
 #!/bin/sh
 
-DIR=$(dirname "$0")/output;FILE=$DIR/x.png;
+DIR=$(dirname "$0")/output
+
+FILE=$DIR/x.png
+
+mkdir -p $DIR
 
 rm -fr $FILE
 
