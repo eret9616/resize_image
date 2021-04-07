@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Activate</key>
+		<string>Normal</string>
+		<key>CreationDate</key>
+		<real>617969155.23794901</real>
+		<key>Macros</key>
+		<array>
+			<dict>
+				<key>Actions</key>
+				<array>
+					<dict>
+						<key>IsDefaultApplication</key>
+						<true/>
+						<key>MacroActionType</key>
+						<string>Open1File</string>
+						<key>Path</key>
+						<string>~/Desktop/resizeimage/convert.sh</string>
+					</dict>
+				</array>
+				<key>CreationDate</key>
+				<real>639500792.50375295</real>
+				<key>ModificationDate</key>
+				<real>639507632.62896097</real>
+				<key>Name</key>
+				<string>resize image</string>
+				<key>Triggers</key>
+				<array>
+					<dict>
+						<key>FireType</key>
+						<string>Pressed</string>
+						<key>KeyCode</key>
+						<integer>8</integer>
+						<key>MacroTriggerType</key>
+						<string>HotKey</string>
+						<key>Modifiers</key>
+						<integer>4352</integer>
+					</dict>
+				</array>
+				<key>UID</key>
+				<string>73513EC5-7D2E-4C55-9338-8A611DE46241</string>
+			</dict>
+		</array>
+		<key>Name</key>
+		<string>Global Macro Group</string>
+		<key>ToggleMacroUID</key>
+		<string>510840EC-BF4A-4C03-B090-0BF9CF5C4774</string>
+		<key>UID</key>
+		<string>6BCD1222-B2A9-4868-8467-8E4CC1A38BA0</string>
+	</dict>
+</array>
+</plist>
