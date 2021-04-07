@@ -18,13 +18,13 @@
 						<key>MacroActionType</key>
 						<string>Open1File</string>
 						<key>Path</key>
-						<string>~/Desktop/resizeimage/convert.sh</string>
+						<string>~/Desktop/resize_image/convert.sh</string>
 					</dict>
 				</array>
 				<key>CreationDate</key>
 				<real>639500792.50375295</real>
 				<key>ModificationDate</key>
-				<real>639507632.62896097</real>
+				<real>639510296.94345796</real>
 				<key>Name</key>
 				<string>resize image</string>
 				<key>Triggers</key>
